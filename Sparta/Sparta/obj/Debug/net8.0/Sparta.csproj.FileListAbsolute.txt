@@ -1,0 +1,14 @@
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\bin\Debug\net8.0\Sparta.exe
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\bin\Debug\net8.0\Sparta.deps.json
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\bin\Debug\net8.0\Sparta.runtimeconfig.json
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\bin\Debug\net8.0\Sparta.dll
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\bin\Debug\net8.0\Sparta.pdb
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.AssemblyInfoInputs.cache
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.AssemblyInfo.cs
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.csproj.CoreCompileInputs.cache
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.dll
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\refint\Sparta.dll
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.pdb
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\Sparta.genruntimeconfig.cache
+C:\Users\rokid\OneDrive\Desktop\Sparta\Sparta\obj\Debug\net8.0\ref\Sparta.dll
