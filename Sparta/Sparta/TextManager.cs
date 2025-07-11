@@ -30,6 +30,10 @@ namespace Sparta
         {
             Console.WriteLine("\n골드가 부족합니다.");
         }
+        public void ErrorFour()
+        {
+            Console.WriteLine("\n체력이 부족합니다.");
+        }
         public void StartMapWelcome()
         {
             Console.WriteLine("\n스파르타 마을에 오신 여러분 환영합니다.");
@@ -139,7 +143,7 @@ namespace Sparta
         {
             Console.WriteLine($"\n1. 쉬운 던전 | 방어력 5 이상 권장");
             Console.WriteLine($"2. 일반 던전 | 방어력 11 이상 권장");
-            Console.WriteLine($"3. 어려운 던전 | 방어력 17 이상 권장");
+            Console.WriteLine($"3. 어려운 던전 | 방어력 16 이상 권장");
         }
         public void DungeonClear(string difficultly, int healthBefore, int healthAfter, int goldBefore, int goldAfter)
         {

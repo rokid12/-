@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rokid\\OneDrive\\Desktop\\Sparta\\Sparta\\Sparta.csproj": {}
+    "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Sparta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rokid\\OneDrive\\Desktop\\Sparta\\Sparta\\Sparta.csproj": {
+    "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Sparta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rokid\\OneDrive\\Desktop\\Sparta\\Sparta\\Sparta.csproj",
+        "projectUniqueName": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Sparta.csproj",
         "projectName": "Sparta",
-        "projectPath": "C:\\Users\\rokid\\OneDrive\\Desktop\\Sparta\\Sparta\\Sparta.csproj",
+        "projectPath": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Sparta.csproj",
         "packagesPath": "C:\\Users\\rokid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rokid\\OneDrive\\Desktop\\Sparta\\Sparta\\obj\\",
+        "outputPath": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -15,6 +15,7 @@ namespace Sparta
                 TextManager.Instance.DungeonWindowUi();
                 TextManager.Instance.DungeonWindowGuide();
 
+
                 switch (InputManager.Instance.PickNumber())
                 {
                     case 0:

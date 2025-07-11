@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\inventorywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\inventorywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\equipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\equipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\dungeonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\dungeonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\statuswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\startmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\startmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\restwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\restwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|c:\\users\\rokid\\onedrive\\desktop\\-\\sparta\\sparta\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D5315-848A-45EA-8DCF-B48036997EDA}|Sparta\\Sparta.csproj|solutionrelative:sparta\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\TextManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\TextManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\TextManager.cs",
+              "RelativeToolTip": "Sparta\\TextManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Dungeon.cs",
+              "RelativeDocumentMoniker": "Sparta\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Dungeon.cs",
+              "RelativeToolTip": "Sparta\\Dungeon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DungeonMap.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\DungeonMap.cs",
+              "RelativeDocumentMoniker": "Sparta\\DungeonMap.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\DungeonMap.cs",
+              "RelativeToolTip": "Sparta\\DungeonMap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DungeonManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\DungeonManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\DungeonManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\DungeonManager.cs",
+              "RelativeToolTip": "Sparta\\DungeonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InventoryWindow.cs",
+              "RelativeDocumentMoniker": "Sparta\\InventoryWindow.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InventoryWindow.cs",
+              "RelativeToolTip": "Sparta\\InventoryWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\EquipManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\EquipManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\EquipManager.cs",
+              "RelativeToolTip": "Sparta\\EquipManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\GameManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\GameManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\GameManager.cs",
+              "RelativeToolTip": "Sparta\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InputManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\InputManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InputManager.cs",
+              "RelativeToolTip": "Sparta\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:36.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\InventoryManager.cs",
+              "RelativeToolTip": "Sparta\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:36.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Item.cs",
+              "RelativeDocumentMoniker": "Sparta\\Item.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Item.cs",
+              "RelativeToolTip": "Sparta\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\ShopManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ShopManager.cs",
+              "RelativeToolTip": "Sparta\\ShopManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StatusWindow.cs",
+              "RelativeDocumentMoniker": "Sparta\\StatusWindow.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StatusWindow.cs",
+              "RelativeToolTip": "Sparta\\StatusWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:42.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StatusManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\StatusManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StatusManager.cs",
+              "RelativeToolTip": "Sparta\\StatusManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartMap.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StartMap.cs",
+              "RelativeDocumentMoniker": "Sparta\\StartMap.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\StartMap.cs",
+              "RelativeToolTip": "Sparta\\StartMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:41.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ShopWindow.cs",
+              "RelativeDocumentMoniker": "Sparta\\ShopWindow.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ShopWindow.cs",
+              "RelativeToolTip": "Sparta\\ShopWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\RestWindow.cs",
+              "RelativeDocumentMoniker": "Sparta\\RestWindow.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\RestWindow.cs",
+              "RelativeToolTip": "Sparta\\RestWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Program.cs",
+              "RelativeDocumentMoniker": "Sparta\\Program.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\Program.cs",
+              "RelativeToolTip": "Sparta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:39.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Sparta\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\rokid\\OneDrive\\Desktop\\-\\Sparta\\Sparta\\ItemManager.cs",
+              "RelativeToolTip": "Sparta\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:29:38.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

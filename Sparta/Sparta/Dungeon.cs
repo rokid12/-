@@ -13,24 +13,32 @@ namespace Sparta
         
         public void Play()
         {
-            if (StatusManager.Instance.armor > Condition(difficultly))
+            if (StatusManager.Instance.health > 1)
             {
-                Clear();
-            }
-            else
-            {
-                Random rand = new Random();
-                int clearOrFail = rand.Next(0, 100);
-
-
-                if (clearOrFail < 40)
+                if (StatusManager.Instance.armor > Condition(difficultly))
                 {
                     Clear();
                 }
                 else
                 {
-                    Fail();
+                    Random rand = new Random();
+                    int clearOrFail = rand.Next(0, 100);
+
+
+                    if (clearOrFail < 40)
+                    {
+                        Clear();
+                    }
+                    else
+                    {
+                        Fail();
+                    }
                 }
+            }
+            else
+            {
+                TextManager.Instance.ErrorFour();
+                DungeonMap.Show();
             }
 
         }
@@ -75,6 +83,9 @@ namespace Sparta
 
             StatusManager.Instance.health = StatusManager.Instance.health - lessHealth;
             StatusManager.Instance.gold = StatusManager.Instance.gold + totalGold;
+            StatusManager.Instance.levelPoint = StatusManager.Instance.levelPoint + 1;
+
+            TextManager.Instance.NoneGuide();
 
             while (true)
             {

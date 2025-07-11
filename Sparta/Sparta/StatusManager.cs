@@ -36,7 +36,7 @@ namespace Sparta
         public int health = 100;
         public int plusHealth = 0;
 
-        public int gold = 10000;
+        public int gold = 1500;
 
         public void PlayerInformation()
         {
@@ -66,9 +66,21 @@ namespace Sparta
             {
                 level = 1;
             }
-            else
+            else if (levelPoint == 1)
             {
-                level = (levelPoint / level + levelPoint) + 1;
+                level = 2;
+            }
+            else if (levelPoint == 3)
+            {
+                level = 3;
+            }
+            else if (levelPoint == 6)
+            {
+                level = 4;
+            }
+            else if (levelPoint == 10)
+            {
+                level = 5;
             }
             return level;
         }
