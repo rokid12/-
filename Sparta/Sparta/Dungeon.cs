@@ -54,7 +54,7 @@ namespace Sparta
             bonus = StatusManager.Instance.armor - Condition(difficultly);
             getGold = 1000 + (difficultly * 650) + (difficultly * difficultly * 50);
 
-            bonusGold = rand.Next((int)(bonusGold / 100 * StatusManager.Instance.attack), (int)(bonusGold / 100 * StatusManager.Instance.attack) * 2);
+            bonusGold = rand.Next((int)(getGold / 100 * StatusManager.Instance.attack), (int)(getGold / 100 * StatusManager.Instance.attack) * 2);
             totalGold = getGold + bonusGold;
 
             switch (difficultly)
