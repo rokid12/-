@@ -119,6 +119,8 @@ namespace Sparta
             TextManager.Instance.DungeonFailed(dungeonLevel, StatusManager.Instance.health, StatusManager.Instance.health / 2);
             StatusManager.Instance.health = StatusManager.Instance.health - (StatusManager.Instance.health / 2);
 
+            TextManager.Instance.NoneGuide();
+
             while (true)
             {
                 switch (InputManager.Instance.PickNumber())

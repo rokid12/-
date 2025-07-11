@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sparta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41668a67c14928fbe1e6e0a9c23f7218a0fc80cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7638baf96d375c6f57e6bdc7f976af6813de48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sparta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sparta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

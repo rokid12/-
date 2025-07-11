@@ -22,12 +22,14 @@ namespace Sparta
 
         public void EquipUnequip(int number)
         {
-            if (equipmentSlots[InventoryManager.inventory[number].itemType] != null)
+            if (equipmentSlots.Contains(InventoryManager.inventory[number]))
             {
                 UnequipItem(number);
             }
-
-            EquipItem(number);
+            else
+            {
+                EquipItem(number);
+            }
         }
 
         public void EquipItem(int number)
